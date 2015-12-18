@@ -1,4 +1,10 @@
 body{
-	background-color: black;
-	color: #ffff00;
+	background-color: #fff;
+	color: #000;
+}
+.moon{
+	width: 489px;
+	height: 368px;
+	display: block;
+	margin: 0 auto;
 }
